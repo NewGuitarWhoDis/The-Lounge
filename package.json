@@ -1,0 +1,21 @@
+{
+  "name": "the-lounge",
+  "version": "1.0.0",
+  "description": "The lounge discord server discord bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.0",
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.3.0",
+    "mongoose": "^5.12.3",
+    "yt-search": "^2.7.6",
+    "ytdl-core": "^4.5.0"
+  }
+}
